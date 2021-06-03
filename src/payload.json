@@ -1,0 +1,32 @@
+[
+  {
+    "name": "#001 - Sign In",
+    "image": "https://cdn.dribbble.com/users/1811807/screenshots/10171218/media/43bba9933e91bba9dc1c711726043054.png?compress=1&resize=1600x1200",
+    "author": "https://github.com/abdoulmouctard",
+    "links": {
+      "template": "https://yazida.io/templates",
+      "github": "https://github.com/yazida-io/daily-ui",
+      "youtube": "https://www.youtube.com/channel/UC-HdwNl_cOsfwJTFOz0Is4g"
+    }
+  },
+  {
+    "name": "#002 - Music Player",
+    "image": "https://cdn.dribbble.com/users/4388438/screenshots/8501964/media/40b8fb4907f971c429cae058decec63b.jpg?compress=1&resize=1600x1200",
+    "author": "https://github.com/abdoulmouctard",
+    "links": {
+      "template": "https://yazida.io/templates",
+      "github": "https://github.com/yazida-io/daily-ui",
+      "youtube": "https://www.youtube.com/channel/UC-HdwNl_cOsfwJTFOz0Is4g"
+    }
+  },
+  {
+    "name": "#003 - Weather",
+    "image": "https://cdn.dribbble.com/users/4388438/screenshots/8607453/media/a21ab19b43346cfb1e13203df316c196.jpg?compress=1&resize=1600x1200",
+    "author": "https://github.com/abdoulmouctard",
+    "links": {
+      "template": "https://yazida.io/templates",
+      "github": "https://github.com/yazida-io/daily-ui",
+      "youtube": "https://www.youtube.com/channel/UC-HdwNl_cOsfwJTFOz0Is4g"
+    }
+  }
+]
